@@ -1,0 +1,13 @@
+# Giới thiệu
+----------------------------------------------------------------
+- IIFE : Imatte
+- Clouser : Hàm đóng
+- Hoisting : Cẩu lên
+- Strict mode : Chế độ nghiêm ngặc
+- This keyword : Từ khóa this
+- Bind method : Phương thức Bind
+- Call method : Phương thức Call
+- Apply method : Phương thức Apply của Function
+- Catching, throwing errors: Cách bắt lỗi, xử lý lỗi.
+- Promise : Giải thích bản chất cần có Promise, callback và Async/Await
+- Async function. await
