@@ -1,6 +1,5 @@
 # So sánh cách sử dụng If_else và Switch
 ---
-
 ## Bài toán
 - Viết hàm kiểm tra trạng thái 1 trang website
 ```js
