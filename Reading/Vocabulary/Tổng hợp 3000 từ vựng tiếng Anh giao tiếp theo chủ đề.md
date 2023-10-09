@@ -144,3 +144,6 @@ Redundancy /ri’dʌndənsi/: Sự thừa nhân viên
 Part-time /´pa:t¸taim/: Bán thời gian
 
 Full-time /ˌfʊl ˈtaɪm/: Toàn thời gian
+
+[[3000 words English]]
+
