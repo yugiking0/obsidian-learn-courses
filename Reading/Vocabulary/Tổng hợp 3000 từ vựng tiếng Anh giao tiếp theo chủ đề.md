@@ -145,5 +145,5 @@ Part-time /´pa:t¸taim/: Bán thời gian
 
 Full-time /ˌfʊl ˈtaɪm/: Toàn thời gian
 
-[[3000 words English]]
+[[LISTEN/3000 words English]]
 
