@@ -45,6 +45,40 @@
 |spoon (n)|/spuːn/|thìa|Please give me the spoon.<br><br>_(Đưa cho tôi cái_ _thìa__.)_|
 |mug (n)|/mʌg/|cái ca/ ly cối|This mug has no handle.<br><br>_(__Cái ca_ _này không có tay cầm.)_|
 
+## Từ vựng tiếng Anh chuyên ngành Bếp
+
+_**Sau đây, Jaxtina sẽ tổng hợp những từ vựng tiếng Anh chuyên ngành Bếp mà bạn không thể bỏ qua**_
+
+|                                                                        |                                                            |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------- |
+| dishwasher /ˈdɪʃˌwɒʃ.əʳ/ – máy rửa bát                                 | dish drainer /dɪʃ ˈdreɪn.əʳ/ – rá đựng bát                 |
+| steamer /ˈstiː.məʳ/ – rá để hấp                                        | can opener /kæn ˈəʊ.pən.əʳ/ – cái mở đồ hộp                |
+| frying pan /fraɪ.ɪŋ pæn/ – chảo rán                                    | bottle opener /ˈbɒt.ļ ˈəʊ.pən.əʳ/ – cái mở nắp chai        |
+| colander /ˈkʌl.ɪn.dəʳ/ – cái chao                                      | saucepan /ˈsɔː.spæn/ – cái xoong                           |
+| lid /lɪd/ – nắp, vung                                                  | dishwashing liquid /ˈdɪʃwɔʃɪŋ ˌlɪkwɪd/ – nước rửa bát      |
+| scouring pad /skaʊərɪŋ pæd/ – miếng cọ rửa                             | blender /ˈblen.dəʳ/ – máy xay sinh tố                      |
+| pot /pɒt/ – hũ, vại, nồi to dài                                        | casserole dish /ˈkæs.ər.əʊl dɪʃ/ – nồi hầm                 |
+| canister /ˈkæn.ɪ.stəʳ/ – hộp nhỏ                                       | toaster /ˈtəʊ.stəʳ/ – lò nướng bánh                        |
+| roasting pan /ˈrəʊ.stɪŋ pæn/ – chảo nướng (dùng nướng thức ăn trong lò | dishtowel /dɪʃ taʊəl/ – khăn lau bát đĩa                   |
+| refrigerator /rɪˈfrɪdʒ.ər.eɪ.təʳ/ – tủ lạnh                            | freezer /ˈfriː.zəʳ/ – ngăn lạnh                            |
+| ice tray /aɪs treɪ/ – khay đá                                          | cabinet /ˈkæb.ɪ.nət/ – tủ nhiều ngăn                       |
+| microwave oven /ˈmaɪ.krəʊ.weɪv ˈʌv.ən/ – lò vi sóng                    | mixing bowl /mɪksɪŋ bəʊl/ – bát to để trộn                 |
+| rolling pin /ˈrəʊ.lɪŋ pɪn/ – trục cán bột                              | cutting board /ˈkʌt.ɪŋ bɔːd/ – thớt                        |
+| counter /ˈkaʊn.təʳ/ – bề mặt chỗ nấu ăn                                | teakettle /tiːket.ļ/ – ấm đun nước pha trà                 |
+| burner /ˈbɜː.nəʳ/ – bếp                                                | stove /stəʊv/ – bếp ga                                     |
+| coffee maker /ˈkɔfi ˈmeɪkə/ – máy pha cà phê                           | oven /ˈʌv.ən/ – lò hấp                                     |
+| broiler /ˈbrɔɪ.ləʳ/ – vỉ nướng                                         | pot holder /pɒt ˈhəʊl.dəʳ/ – miếng lót nồi                 |
+| kitchen timer /ˈkɪtʃ.ən ˈtaɪ.məʳ/ – đồng hồ để trong bếp               | oven mitt /ˈʌv.ən mɪt/- găng tay chống nóng (để nấu nướng) |
+| jar /dʒɑːʳ/ – vại, bình, lọ                                            | mixer /ˈmɪk.səʳ/ – máy trộn                                |
+| food processor /fuːd ˈprəʊ.ses.əʳ/ – máy chế biến thực phẩm            | sink /sɪŋk/ – bồn rửa bát                                  |
+| dishes /dɪʃiz/ – bát đĩa                                               | paper towel /ˈpeɪ.pəʳ taʊəl/ – khăn giấy                   |
+| sponge /spʌndʒ/ – bọt biển, xốp                                        | coffee grinder /ˈkɒf.i ˈgraɪn.dəʳ/ – máy nghiền cà phê     |
+| cabinet /ˈkæbɪnət/ – tủ có ngăn                                        | chopstick /ˈtʃɑːpstɪk/ – đũa                               |
+| china /’tʃainə/ – đồ sứ                                                | food container /fuːd  kənˈteɪnər/ – hộp chứa thức ăn       |
+| pan /pæn/ – chảo                                                       | bowl /bəʊl/ – chén/tô                                      |
+| cooker /kʊkəʳ/ – nồi cơm điện                                          | toque /touk/ – nón đầu bếp                                 |
+
+
 ## **4. Bài tập vận dụng từ vựng đồ dùng trong nhà bếp bằng Tiếng Anh**
 
 Sau khi đã học thuộc các từ vựng trên, bạn hãy làm một số bài tập dưới đây để kiểm tra xem bản thân đã nắm được sử dụng các từ này trong câu chưa nhé!
@@ -86,3 +120,5 @@ What do you need?
 4. No _(__Sai) –_ _The freezer is not as cold as the refrigerator. (Tủ đông không lạnh bằng tủ lạnh.)_
 5. Yes (_Đúng) –_ I turn on the faucet to get water. _(Tôi mở vòi để lấy nước.)_
 6. No _(Sai) –_ A dishtowel is for making plates wet. _(Khăn lau làm đĩa ướt.)_
+
+
