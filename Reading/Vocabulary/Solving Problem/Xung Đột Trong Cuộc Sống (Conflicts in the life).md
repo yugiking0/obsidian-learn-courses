@@ -51,8 +51,6 @@ Những xung đột trong cuộc sống là điều không thể tránh khỏi, 
 |---|
 |### **Xem đáp án**<br><br>- [![Đáp án phần đoạn văn](https://jaxtina.com/wp-content/uploads/2021/06/dap-an-phan-doc-doan-van.jpg)](https://jaxtina.com/wp-content/uploads/2021/06/dap-an-phan-doc-doan-van.jpg)[![Đáp án phần câu trả lời](https://jaxtina.com/wp-content/uploads/2021/06/dap-an-phan-cau-tra-loi.jpg)](https://jaxtina.com/wp-content/uploads/2021/06/dap-an-phan-cau-tra-loi.jpg)<br>- Dịch nghĩa:  <br>    **CUỘC TRANH CÃI VỀ XE HƠI ẢNH HƯỞNG ĐẾN GẦN 2 TRIỆU NGƯỜI**  <br>    UNICEF cho biết cuộc xung đột gần đây ở Cộng hòa Trung Phi (CAR) đã ảnh hưởng đến 1,8 triệu người. Quỹ Nhi đồng Liên hợp quốc đưa thông tin rằng trẻ em chiếm một nửa trong số 800.000 người đang cần viện trợ nhân đạo khẩn cấp. Các nhóm nổi dậy chống lại Tổng thống Francois Bozize vào tháng 12 và sau đó Liên minh phiến quân Seleka đã ký một thỏa thuận hòa bình với tổng thống vào tháng 1. Một phát ngôn viên của UNICEF đã tiết lộ rằng một số thị trấn bị ảnh hưởng nặng nề nhất vẫn nằm dưới sự kiểm soát của phiến quân và những rủi ro chủ yếu đối với trẻ em bao gồm bạo lực tình dục và phải tham gia vào các nhóm vũ trang. UNICEF cho biết 8% trẻ em ở Cộng hòa Trung Phi bị suy dinh dưỡng cấp tính mức trung bình.|
 
-**_>>>> Đọc Thêm: [Tổng hợp 30 từ vựng chủ đề Meeting/Conferences](https://jaxtina.com/tieng-anh-chu-de-meeting-conference/)_**
-
 ## **Practice 2**
 
 **Match the words with the their definitions.** **_(Nối từ với định nghĩa đúng của chúng.)_**

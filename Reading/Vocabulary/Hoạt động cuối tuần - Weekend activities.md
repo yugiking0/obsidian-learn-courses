@@ -78,3 +78,60 @@ ___________________________________________________________
 
 Bạn vừa hoàn thành xong 2 bài tập đọc về chủ đề **Weekend Activities** (hoạt động cuối tuần), chủ đề này cũng không quá khó phải không nào. Bạn hãy luyện tập nói về ngày cuối tuần của mình với bạn bè, người thân, hoặc có thể chia sẻ với Jaxtina, chúng mình sẵn lòng hỗ trợ bạn để có một câu chuyện cuối tuần thú vị nhất.
 
+
+## Các cụm từ diễn tả thói quen hàng ngày
+
+|   |   |   |
+|---|---|---|
+|get up|/ɡet ʌp/|Thức dậy|
+|brush one’s teeth|/brʌʃ/ /tiːθ/|Đánh răng|
+|wash one’s face|/wɒʃ/  /feɪs/|Rửa mặt|
+|comb one’s hair|/kəʊm/ /heər/|Chải tóc|
+|do exercise|/duː ˈek.sə.saɪz /|Tập thể dục|
+|get dressed|/ɡet drest/|Mặc quần áo|
+|make breakfast/ lunch/ dinner|/meɪk ˈbrek.fəst/ <br><br>/meɪk  lʌntʃ/<br><br>/meɪk ˈdɪn.ər/|Làm bữa sáng/ trưa/ tối|
+|have breakfast/ lunch/ dinner|/hæv ˈbrek.fəst/ <br><br>/hæv  lʌntʃ/ <br><br>/hæv ˈdɪn.ər/|Ăn sáng/ trưa/ tối|
+|go to school/ work|/ɡəʊ tuː skuːl/<br><br>/ɡəʊ tuː wɜːk/|Đi học/ làm|
+|go home|/ɡəʊ həʊm/|Về nhà|
+|do homework|/duː ˈhəʊm.wɜːk/|Làm bài tập về nhà|
+|wash dishes|/wɒʃ ˈdɪʃɪz/|Rửa bát|
+|watch TV|/wɒtʃ tiːˈviː/|Xem TV|
+|listen to music|/ˈlɪsən tuː ˈmjuːzɪk/|Nghe nhạc|
+|do the laundry|/duː ðə ˈlɔːndri/|Giặt quần áo|
+|take a nap|/teɪk ə næp/|Chợp mắt|
+|surf the Internet|/sɜːf ði ˈɪntəˌnɛt/|Lướt internet|
+|take a shower|/teɪk ə ‘ʃaʊə/|Tắm|
+|read books|/riːd bʊks/|Đọc sách|
+|play video games|/pleɪ ˈvɪdɪəʊ geɪmz/|Chơi trò chơi điện tử|
+|play with friends|/pleɪ wɪð frɛndz/|Chơi cùng bạn bè|
+|go to bed|/gəʊ tuː bɛd/|Đi ngủ|
+
+Trên đây là một số cụm động từ thường được dùng để miêu tả thói quen hàng ngày, hãy xem đoạn văn sau để biết thêm cách dùng các cụm từ trên nhé.
+
+**Example:**
+
+I usually get up at 6 o’clock every morning. Then, I spend 10 minutes brushing my teeth and washing my face, while my mother makes breakfast for me. I have noodles and a cup of milk for breakfast. After breakfast, I comb my hair and get dressed. At 6.45 A.M, I go to school by bike.
+
+My school starts at 7.15 A.M, and I usually have 5 classes in the morning. When finishing my morning classes at 11.30 A.M, I go home to have lunch with my family and take a nap about 30 minutes after lunch. Sometimes, I have lunch at the canteen with my friends when my morning classes finish late. I have 4 classes in the afternoon and I go home at 5 P.M
+
+At home, I usually help my mother do household chores. For example, I wash dishes, do the laundry and make dinner. When I have free time, I usually surf the Internet, read my favorite books, listen to music or watch TV. Sometimes, I also go out to play with my friends. At 7 P.M, after having dinner, I take a shower and do homework and prepare clothes and books for the next day. Then, I brush my teeth and go to bed at 10 P.M.
+
+## **Một số lưu ý khi miêu tả thói quen hàng ngày**
+
+– Khi nói về thói quen hàng ngày, chúng ta đang miêu tả những hoạt động thường xuyên xảy ra, lặp đi lặp lại, do đó cần sử dụng thì Hiện tại đơn (Simple Present).
+
+– Nên sử dụng các trạng từ chỉ tần suất: always, usually, sometimes, often.
+
+– Nên sử dụng các từ nối: after, then, before.
+
+– Có thể sử dụng cấu trúc: S + spend + thời gian + V_ing (ai đó dành bao nhiêu thời gian để làm gì)
+
+**Ex:** I spend 20 minutes reading books everyday.
+
+      Tôi dành 20 phút để đọc sách mỗi ngày.
+
+– At + thời gian:
+
+**Ex:** I get up at 7 o’clock.
+
+      Tôi thức dậy lúc 7 giờ.
