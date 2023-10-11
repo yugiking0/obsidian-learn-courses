@@ -9,28 +9,28 @@ Khi trải nghiệm tại một nhà hàng mà bạn cảm thấy cực kì ưng
 |   |   |   |   |
 |---|---|---|---|
 |**Từ vựng**|**Phiên âm**|**Nghĩa** <br><br>**tiếng Việt**|**Ví dụ**|
-|mains (n)|/meɪnz/|món chính|We loved our Chinese-style mains.<br><br>_(Chúng tôi yêu thích các_ _món ăn chính_ _kiểu Trung.)_|
-|side order (n.p)|/saɪd ˈɔːdə/|món phụ|The side order was truly delicious.<br><br>_(__Món ăn phụ_ _rất ngon.)_|
-|service (n)|/ˈsɜːvɪs/|dịch vụ|The service was professional.<br><br>_(__Dịch vụ__ _ở đây rất chuyên nghiệp.)_|
-|tip (n)|/tɪp/|tiền boa|When we didn’t leave a tip, he looked disappointed.<br><br>_(Khi chúng tôi không để lại_ _tiền boa__, anh ấy trông có vẻ thất vọng.)_|
-|reservation (n)|/rɛzəˈveɪʃən/|sự đặt trước|We didn’t have a reservation.<br><br>_(Chúng tôi đã không_ _đặt chỗ trước__.)_|
-|order (v)|/ˈɔːdə/|gọi món|We ordered the pickle as a side dish.<br><br>_(Chúng tôi đã_ _gọi_ _món dưa muối như một món ăn phụ.)_|
-|recommend (v)|/ˌrɛkəˈmɛnd/|đề xuất, gợi ý|The waiter gives a lot of useful recommendations.<br><br>_(Người phục vụ đưa ra rất nhiều_ _gợi ý_ _hữu ích.)_|
-|exquisite (adj)|/ˈɛkskwɪzɪt/|tinh tế|This establishment has some of the most exquisite dishes.<br><br>_(Cơ sở này có những món ăn_ _tinh tế_ _nhất.)_|
-|professional (adj)|/prəˈfɛʃənl/|chuyên nghiệp|The service here is professional.<br><br>_(Dịch vụ ở đây rất là_ _chuyên nghiệp__.)_|
-|unmatched (adj)|/ʌnˈmæʧt/|không gì sánh được|I think this dish is unmatched.<br><br>_(Tôi nghĩ rằng món ăn này là_ _vô đối__.)_|
-|superb (adj)|/suːˈpɜːb/|tuyệt vời|Everything is perfect and superb.<br><br>_(Mọi thứ đều hoàn hảo và_ _tuyệt vời__.)_|
-|delighted (adj)|/dɪˈlaɪtɪd/|vui, hân hoan|I was really delighted savoring all the food.<br><br>_(Tôi thực sự rất_ _vui_ _khi thưởng thức tất cả các món ăn.)_|
-|welcoming (adj)|/ˈwɛlkəmɪŋ/|thân thiện, chào đón|Every employee is welcoming.<br><br>_(Mọi nhân viên đều rất_ _chào đón__.)_|
-|gourmet (adj)|/ˈɡɔː.meɪ/|thượng hạng|I want this gourmet meal to be served in one hour.<br><br>_(Tôi muốn bữa ăn_ _thượng hạng_ _này được phục vụ trong một giờ nữa.)_|
-|charming (adj)|/ˈʧɑːmɪŋ/|làm mê mẩn|The atmosphere is charming.<br><br>_(__Bầu không khí_ _làm người ta mê mẩn.__)_|
-|quintessential (adj)|/ˌkwɪntɪˈsɛnʃəl**/**|tinh túy|Pho is the most quintessential dish in Vietnam.<br><br>_(Phở là món ăn_ _tinh túy_ _nhất của Việt Nam.)_|
-|wine and dine (v.p)|/waɪn ænd daɪn/|thiết đãi ai đó|I wined and dined my girlfriend at a fancy Western restaurant.<br><br>_(Tôi_ _mời bạn gái đi ăn_ _tại một nhà hàng phương Tây sang trọng.)_|
-|disappointing (adj)|/dɪsəˈpɔɪntɪŋ/|đáng thất vọng|The experience was really disappointing.<br><br>(_Trải nghiệm thực sự_ _đáng thất vọng__.)_|
-|terrible (adj)|/ˈtɛrəbl/|tệ|The fried chicken dish was too terrible to finish.<br><br>_(__Món gà rán_ _quá_ _tệ_ _để có thể ăn hết.)_|
-|below average (adj.p)|/bɪˈləʊ ˈævərɪʤ/|dưới trung bình|The service was below average.<br><br>(_Dịch vụ ở đây_ _dưới mức trung bình)_|
+|mains (n)|/meɪnz/|món chính|We loved our Chinese-style mains.<br><br>_(Chúng tôi yêu thích các __món ăn chính__ kiểu Trung.)_|
+|side order (n.p)|/saɪd ˈɔːdə/|món phụ|The side order was truly delicious.<br><br>_(__Món ăn phụ__ rất ngon.)_|
+|service (n)|/ˈsɜːvɪs/|dịch vụ|The service was professional.<br><br>_(__Dịch vụ__ ở đây rất chuyên nghiệp.)_|
+|tip (n)|/tɪp/|tiền boa|When we didn’t leave a tip, he looked disappointed.<br><br>_(Khi chúng tôi không để lại __tiền boa__, anh ấy trông có vẻ thất vọng.)_|
+|reservation (n)|/rɛzəˈveɪʃən/|sự đặt trước|We didn’t have a reservation.<br><br>_(Chúng tôi đã không __đặt chỗ trước__.)_|
+|order (v)|/ˈɔːdə/|gọi món|We ordered the pickle as a side dish.<br><br>_(Chúng tôi đã __gọi__ món dưa muối như một món ăn phụ.)_|
+|recommend (v)|/ˌrɛkəˈmɛnd/|đề xuất, gợi ý|The waiter gives a lot of useful recommendations.<br><br>_(Người phục vụ đưa ra rất nhiều __gợi ý__ hữu ích.)_|
+|exquisite (adj)|/ˈɛkskwɪzɪt/|tinh tế|This establishment has some of the most exquisite dishes.<br><br>_(Cơ sở này có những món ăn __tinh tế__ nhất.)_|
+|professional (adj)|/prəˈfɛʃənl/|chuyên nghiệp|The service here is professional.<br><br>_(Dịch vụ ở đây rất là __chuyên nghiệp__.)_|
+|unmatched (adj)|/ʌnˈmæʧt/|không gì sánh được|I think this dish is unmatched.<br><br>_(Tôi nghĩ rằng món ăn này là __vô đối__.)_|
+|superb (adj)|/suːˈpɜːb/|tuyệt vời|Everything is perfect and superb.<br><br>_(Mọi thứ đều hoàn hảo và __tuyệt vời__.)_|
+|delighted (adj)|/dɪˈlaɪtɪd/|vui, hân hoan|I was really delighted savoring all the food.<br><br>_(Tôi thực sự rất __vui__ khi thưởng thức tất cả các món ăn.)_|
+|welcoming (adj)|/ˈwɛlkəmɪŋ/|thân thiện, chào đón|Every employee is welcoming.<br><br>_(Mọi nhân viên đều rất __chào đón__.)_|
+|gourmet (adj)|/ˈɡɔː.meɪ/|thượng hạng|I want this gourmet meal to be served in one hour.<br><br>_(Tôi muốn bữa ăn __thượng hạng__ này được phục vụ trong một giờ nữa.)_|
+|charming (adj)|/ˈʧɑːmɪŋ/|làm mê mẩn|The atmosphere is charming.<br><br>_( Bầu không khí làm người ta __mê mẩn__.)_|
+|quintessential (adj)|/ˌkwɪntɪˈsɛnʃəl /|tinh túy|Pho is the most quintessential dish in Vietnam.<br><br>_(Phở là món ăn __tinh túy__ nhất của Việt Nam.)_|
+|wine and dine (v.p)|/waɪn ænd daɪn/|thiết đãi ai đó|I wined and dined my girlfriend at a fancy Western restaurant.<br><br>_(Tôi __mời bạn gái đi ăn__ tại một nhà hàng phương Tây sang trọng.)_|
+|disappointing (adj)|/dɪsəˈpɔɪntɪŋ/|đáng thất vọng|The experience was really disappointing.<br><br>(_Trải nghiệm thực sự __đáng thất vọng__.)_|
+|terrible (adj)|/ˈtɛrəbl/|tệ|The fried chicken dish was too terrible to finish.<br><br>_( Món gà rán __quá tệ__ để có thể ăn hết.)_|
+|below average (adj.p)|/bɪˈləʊ ˈævərɪʤ/|dưới trung bình|The service was below average.<br><br>(_Dịch vụ ở đây __dưới mức trung bình__)_|
 
-**_Bạn đã cùng Jaxtina tìm hiểu một số từ vựng thông dụng khi viết một bài review nhà hàng rồi, bây giờ bạn hãy đọc một bài review hoàn chỉnh và chú ý đến các từ vựng được sử dụng nhé!_**
+
 
 Highly **recommend** this restaurant!
 

@@ -1,16 +1,12 @@
 # 6 cách cải thiện kỹ năng đọc Tiếng Anh nhanh và hiệu quả nhất
 
-_Nếu bạn không biết nên áp dụng_ [**_cách cải thiện kỹ năng đọc Tiếng Anh_**](https://jaxtina.com/cach-cai-thien-ky-nang-doc-tieng-anh/) _nào đem lại hiệu quả cao thì hãy đọc ngay bài viết sau đây. Jaxtina English sẽ giới thiệu đến bạn những phương pháp rèn luyện kỹ năng Listening hiệu quả đang được nhiều người [**học Tiếng Anh**](https://jaxtina.com/hoc-tieng-anh-co-ban/) áp dụng nhất hiện nay. Đừng bỏ lỡ nhé!_
+Nếu bạn không biết nên áp dụng **_cách cải thiện kỹ năng đọc Tiếng Anh_** nào đem lại hiệu quả cao thì hãy đọc ngay bài viết sau đây. Jaxtina English sẽ giới thiệu đến bạn những phương pháp rèn luyện kỹ năng Listening hiệu quả đang được nhiều người.
 
 ## **1. Dành thời gian để luyện đọc Tiếng Anh mỗi ngày**
 
-Luyện đọc mỗi ngày là một trong [**cách học Tiếng Anh hiệu quả**](https://jaxtina.com/cach-hoc-tieng-anh-hieu-qua/) mà bạn nên áp dụng. Khi luyện tập, bạn nên đọc chậm và tập trung vào từng câu. Nếu gặp từ nào không hiểu, bạn có thể dừng lại và tra từ điển để tìm hiểu nghĩa của từ đó. Tuy nhiên, không phải bất cứ từ nào không hiểu nghĩa bạn cũng tra từ điển. Chỉ khi nào cảm thấy từ đó quan trọng đối với việc xác định nghĩa của câu và đoạn văn hoặc thấy một từ được lặp lại nhiều hơn ba lần trong một đoạn, bạn mới nên tra nghĩa. Với các từ còn lại, bạn có thể đoán nghĩa dựa vào các từ đã biết và câu văn đã hiểu.
+Luyện đọc mỗi ngày là một trong **cách học Tiếng Anh hiệu quả** mà bạn nên áp dụng. Khi luyện tập, bạn nên đọc chậm và tập trung vào từng câu. Nếu gặp từ nào không hiểu, bạn có thể dừng lại và tra từ điển để tìm hiểu nghĩa của từ đó. Tuy nhiên, không phải bất cứ từ nào không hiểu nghĩa bạn cũng tra từ điển. Chỉ khi nào cảm thấy từ đó quan trọng đối với việc xác định nghĩa của câu và đoạn văn hoặc thấy một từ được lặp lại nhiều hơn ba lần trong một đoạn, bạn mới nên tra nghĩa. Với các từ còn lại, bạn có thể đoán nghĩa dựa vào các từ đã biết và câu văn đã hiểu.
 
 Việc tra từ điển nên ở thời điểm bạn đã đọc xong một lượt, không nên vừa đọc vừa tra. Điều này sẽ khiến luồng suy nghĩ, sự tập trung của bạn bị ngắt quãng liên tục, gây mất thời gian và không hiệu quả. Bạn cũng nên chú ý đến cách phát âm của các từ nhằm cải thiện khả năng Speaking. 
-
-![cách cải thiện kỹ năng đọc Tiếng Anh](https://jaxtina.com/wp-content/uploads/2023/05/cach-cai-thien-ky-nang-doc-tieng-anh-2.jpg "cách cải thiện kỹ năng đọc Tiếng Anh")
-
-Dành thời gian để luyện đọc Tiếng Anh mỗi ngày
 
 ## **2. Lựa chọn nội dung đọc phù hợp**
 
@@ -35,10 +31,6 @@ Việc đặt câu hỏi trong quá trình đọc sẽ giúp bạn tập trung h
 ## **5. Ghi chú lại những từ vựng, ngữ pháp mới**
 
 Việc ghi chú lại những từ vựng, ngữ pháp mới sẽ giúp bạn ghi nhớ chúng một cách nhanh chóng và dễ dàng hơn. Ngoài ra, **cách cải thiện kỹ năng đọc Tiếng Anh** này còn giúp bạn hiểu rõ hơn về cách sử dụng các từ vựng và ngữ pháp này trong câu. 
-
-![cách cải thiện kỹ năng đọc hiểu tiếng anh](https://jaxtina.com/wp-content/uploads/2023/05/cach-cai-thien-ky-nang-doc-tieng-anh-4.jpg "cách cải thiện kỹ năng đọc hiểu tiếng anh")
-
-Ghi chú lại những từ vựng, ngữ pháp mới
 
 ## **6. Tóm tắt lại những gì đã đọc**
 

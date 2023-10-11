@@ -19,10 +19,6 @@ I live in a traditional family with four people, including Mom, Dad, one brother
 |---|
 |**Xem đáp án**<br><br>_Tôi sống trong một gia đình truyền thống với bốn người, bao gồm mẹ, bố, anh trai tôi, và tôi. Mẹ tôi tên là Trang và bà ấy 35 tuổi. Mẹ luôn đẹp trong kí ức của tôi với mái tóc đen dài và đôi mắt đen. Tôi rất thích nhìn thấy mẹ khi mẹ đang làm việc ở trường với cương vị một người giáo viên. Cha tôi tên là Trương, năm nay 44 tuổi. Ông ấy là người cha mạnh mẽ nhất đối với tôi vì ông ấy có thể làm bất cứ điều gì. Và anh trai tôi là Duy năm nay 17 tuổi, và bây giờ anh đang là học sinh trung học phổ thông. Anh ấy là người anh tốt nhất mà tôi từng có. Tôi luôn yêu gia đình của mình, ngay cả trong giấc mơ của tôi._|
 
-![viết về gia đình bằng tiếng anh](https://jaxtina.com/wp-content/uploads/2021/08/viet-ve-gia-dinh-bang-tieng-anh.jpg "viết về gia đình bằng tiếng anh")
-
-Tổng hợp các bài viết về gia đình bằng Tiếng Anh
-
 
 ## 2. Bài viết giới thiệu về gia đình bằng Tiếng Anh số 2
 
