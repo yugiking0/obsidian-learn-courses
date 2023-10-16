@@ -2,60 +2,59 @@
 
 ## Từ vựng tiếng anh chuyên ngành điều dưỡng phần 1
 
-|   |   |   |
-|---|---|---|
-|**Tiếng Việt**|**Tiếng Anh**|**Phát âm**|
-|Bệnh|Disease|/dɪˈziːz/|
-|Sickness|/ˈsɪknəs/|
-|Illness|/ˈɪlnəs/|
-|Bệnh bại liệt trẻ em|Poliomyelitis|/ˌpəʊliəʊˌmaɪəˈlaɪtɪs/|
-|Bệnh cúm|Influenza|/ɪnflʊˈɛnzə/|
-|Flu|/fluː/|
-|Bệnh tiểu đường|Diabetes|/ˌdaɪəˈbiːtiːz/|
-|Bệnh đau khớp (xương)|Arthralgia|/ɑːˈθraldʒə/|
-|Bệnh đau mắt hột|Trachoma|/trəˈkəʊmə/|
-|Bệnh đau tim|Hear-disease|/hɪə dɪˈziːz/|
-|Viêm gan|Hepatitis|/ˌhepəˈtaɪtɪs/|
-|Bệnh đậu mùa|Small box|/smɔːl bɒks/|
-|Bệnh đục thủy tinh thể|Cataract|/ˈkætərækt/|
-|Bệnh hen (suyễn)|Asthma|/ˈæsmə/|
-|Bệnh truyền qua đường tình dục|Venereal disease|/vəˈnɪəriəl dɪˈziːz/|
-|Bệnh lao|Tuberculosis|/tjuːˌbɜːkjuˈləʊsɪs/|
-|Phthisis|/ˈ(f)θʌɪsɪs/|
-|Bệnh liệt (nửa người)|Paralysis (hemiplegia)|/pəˈræləsɪs/|
-|Bệnh ngoài da|Skin disease|/skɪn dɪˈziːz/|
-|Bệnh nhồi máu (cơ tim)|Infarct (cardiac infarctus)|/ɪnˈfɑːkt/|
-|Bệnh scaclatin (tinh hồng nhiệt)|Scarlet fever|/ˈskɑːlət ˈfiːvə/|
-|Bệnh sốt rét|Malaria|/məˈleəriə/|
-|Paludism|/ˈpaljʊdɪz(ə)m/|
-|Bệnh sởi|Measles|/ˈmiːzlz/|
-|Bệnh táo bón|Constipation|/ˌkɒnstɪˈpeɪʃn/|
-|Bệnh thấp khớp|Rheumatism|/ˈruːmətɪzəm/|
-|Bệnh thuỷ đậu|Chickenpox|/ˈtʃɪkɪnpɒks/|
-|Bệnh tim|Syphilis|/ˈsɪfɪlɪs/|
-|Bệnh ung thư|Cancer|/ˈkansə/|
-|Bệnh viêm màng não|Meningitis|/ˌmenɪnˈdʒaɪtɪs/|
-|Bệnh viêm phế quản|Bronchitis|/brɒŋˈkaɪtɪs/|
-|Bệnh viêm ruột|Enteritis|/ˌentəˈraɪtɪs/|
-|Bệnh học tâm thần:|Psychiatry|/saɪˈkaɪətri/|
-|Bệnh SIDA  (suy giảm miễn dịch)|AIDS|/eɪdz/|
-|Bệnh nhân|Patient|/ˈpeɪʃnt/|
-|Băng bó|Bandage|/ˈbændɪdʒ/|
-|Buồn nôn|A feeling of nausea|/ˈfiːlɪŋ əv ˈnɔːziə/|
-|Cấp cứu|First aid|/ˌfɜːst ˈeɪd/|
-|Chẩn đoán|To diagnose|/ˈdaɪəɡnəʊz/|
-|Chóng mặt|Giddy|/ˈɡɪdi/|
-|Đau âm ỉ|Dull ache|/dʌl eɪk/|
-|Đau họng|Sore throat|/sɔː θrəʊt/|
-|Đau tai|Ear ache|/ɪə eɪk/|
-|Đau tim|Heart complaint|/hɑːt kəmˈpleɪnt/|
-|Điều trị học|Therapeutics|/ˌθerəˈpjuːtɪks/|
-|Giun đũa|Ascarid|/ˈaskərɪd/|
-|Chứng|IstêriHysteria||
-|Khối u|Tumor|/ˈtuːmər/|
-|Mất ngủ|Insomnia|/ɪnˈsɒmnɪə/|
-|Ngoại khoa (phẫu thuật)|Surgery|/ˈsəːdʒ(ə)ri/|
-|Nhi khoa|Paediatrics|/ˌpiːdiˈætrɪks/|
+| **Tiếng Việt**                   | **Tiếng Anh**               | **Phát âm**            |
+|----------------------------------|-----------------------------|------------------------|
+| Bệnh                             | Disease                     | /dɪˈziːz/              |
+|                                  | Sickness                    | /ˈsɪknəs/              |
+|                                  | Illness                     | /ˈɪlnəs/               |
+| Bệnh bại liệt trẻ em             | Poliomyelitis               | /ˌpəʊliəʊˌmaɪəˈlaɪtɪs/ |
+| Bệnh cúm                         | Influenza                   | /ɪnflʊˈɛnzə/           |
+|                                  | Flu                         | /fluː/                 |
+| Bệnh tiểu đường                  | Diabetes                    | /ˌdaɪəˈbiːtiːz/        |
+| Bệnh đau khớp (xương)            | Arthralgia                  | /ɑːˈθraldʒə/           |
+| Bệnh đau mắt hột                 | Trachoma                    | /trəˈkəʊmə/            |
+| Bệnh đau tim                     | Hear-disease                | /hɪə dɪˈziːz/          |
+| Viêm gan                         | Hepatitis                   | /ˌhepəˈtaɪtɪs/         |
+| Bệnh đậu mùa                     | Small box                   | /smɔːl bɒks/           |
+| Bệnh đục thủy tinh thể           | Cataract                    | /ˈkætərækt/            |
+| Bệnh hen (suyễn)                 | Asthma                      | /ˈæsmə/                |
+| Bệnh truyền qua đường tình dục   | Venereal disease            | /vəˈnɪəriəl dɪˈziːz/   |
+| Bệnh lao                         | Tuberculosis                | /tjuːˌbɜːkjuˈləʊsɪs/   |
+|                                  | Phthisis                    | /ˈ(f)θʌɪsɪs/           |
+| Bệnh liệt (nửa người)            | Paralysis (hemiplegia)      | /pəˈræləsɪs/           |
+| Bệnh ngoài da                    | Skin disease                | /skɪn dɪˈziːz/         |
+| Bệnh nhồi máu (cơ tim)           | Infarct (cardiac infarctus) | /ɪnˈfɑːkt/             |
+| Bệnh scaclatin (tinh hồng nhiệt) | Scarlet fever               | /ˈskɑːlət ˈfiːvə/      |
+| Bệnh sốt rét                     | Malaria                     | /məˈleəriə/            |
+|                                  | Paludism                    | /ˈpaljʊdɪz(ə)m/        |
+| Bệnh sởi                         | Measles                     | /ˈmiːzlz/              |
+| Bệnh táo bón                     | Constipation                | /ˌkɒnstɪˈpeɪʃn/        |
+| Bệnh thấp khớp                   | Rheumatism                  | /ˈruːmətɪzəm/          |
+| Bệnh thuỷ đậu                    | Chickenpox                  | /ˈtʃɪkɪnpɒks/          |
+| Bệnh tim                         | Syphilis                    | /ˈsɪfɪlɪs/             |
+| Bệnh ung thư                     | Cancer                      | /ˈkansə/               |
+| Bệnh viêm màng não               | Meningitis                  | /ˌmenɪnˈdʒaɪtɪs/       |
+| Bệnh viêm phế quản               | Bronchitis                  | /brɒŋˈkaɪtɪs/          |
+| Bệnh viêm ruột                   | Enteritis                   | /ˌentəˈraɪtɪs/         |
+| Bệnh học tâm thần:               | Psychiatry                  | /saɪˈkaɪətri/          |
+| Bệnh SIDA  (suy giảm miễn dịch)  | AIDS                        | /eɪdz/                 |
+| Bệnh nhân                        | Patient                     | /ˈpeɪʃnt/              |
+| Băng bó                          | Bandage                     | /ˈbændɪdʒ/             |
+| Buồn nôn                         | A feeling of nausea         | /ˈfiːlɪŋ əv ˈnɔːziə/   |
+| Cấp cứu                          | First aid                   | /ˌfɜːst ˈeɪd/          |
+| Chẩn đoán                        | To diagnose                 | /ˈdaɪəɡnəʊz/           |
+| Chóng mặt                        | Giddy                       | /ˈɡɪdi/                |
+| Đau âm ỉ                         | Dull ache                   | /dʌl eɪk/              |
+| Đau họng                         | Sore throat                 | /sɔː θrəʊt/            |
+| Đau tai                          | Ear ache                    | /ɪə eɪk/               |
+| Đau tim                          | Heart complaint             | /hɑːt kəmˈpleɪnt/      |
+| Điều trị học                     | Therapeutics                | /ˌθerəˈpjuːtɪks/       |
+| Giun đũa                         | Ascarid                     | /ˈaskərɪd/             |
+| Chứng                            | IstêriHysteria              |                        |
+| Khối u                           | Tumor                       | /ˈtuːmər/              |
+| Mất ngủ                          | Insomnia                    | /ɪnˈsɒmnɪə/            |
+| Ngoại khoa (phẫu thuật)          | Surgery                     | /ˈsəːdʒ(ə)ri/          |
+| Nhi khoa                         | Paediatrics                 | /ˌpiːdiˈætrɪks/        |
 
 ## Từ vựng tiếng anh chuyên ngành điều dưỡng phần 2
 

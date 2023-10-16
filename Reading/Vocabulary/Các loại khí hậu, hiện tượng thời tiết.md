@@ -33,28 +33,27 @@ Chủ đề khí hậu là chủ đề tưởng như gần gũi nhưng không ph
 |Shower (n)|/ʃaʊər/|Trận mưa rào|
 |Winter (n)|/ˈwɪn.tər/|Mùa đông|
 |Cold (adj)|/kəʊld/|Lạnh|
-|Dry (adj)  <br>      (n)|/draɪ/|KhôMùa khô|
+|Dry (adj)  <br>      (n)|/draɪ/|Khô <br>Mùa khô|
 ## 3. Những từ vựng Tiếng Anh về hiện tượng thời tiết
 
-|   |   |   |
-|---|---|---|
-|**Từ vựng**|**Phát âm**|**Nghĩa tiếng Việt**|
-|Windy|/ˈwɪndi/|nhiều gió|
-|Breeze|/briːz/|gió nhẹ|
-|Foggy|/ˈfɒɡi/|có sương mù|
-|Haze|/heɪz/|màn sương mỏng|
-|Gloomy|/ˈɡluːmi/|trời ảm đạm|
-|Cloudy|/ˈklaʊdi/|trời nhiều mây|
-|Fine|/faɪn/|trời không mưa, không mây|
-|Sunny|/ˈsʌni/|trời nắng, không có mây|
-|Clear|/klɪə/|quang đãng|
-|Overcast|/ˈəʊvəkɑːst/|âm u|
-|Lightning|/ˈlaɪtnɪŋ/|tia chớp|
-|Thunderstorm|/ˈθʌndəstɔːm/|bão tố có sấm sét|
-|Snow|/snəʊ/|tuyết|
-|Snowstorm|/ˈsnəʊstɔːm/|bão tuyết|
-|Hail|/heɪl/|mưa đá|
-|Flood|/flʌd/|lũ lụt|
+| **Từ vựng**  | **Phát âm**   | **Nghĩa tiếng Việt**      |
+|--------------|---------------|---------------------------|
+| Windy        | /ˈwɪndi/      | nhiều gió                 |
+| Breeze       | /briːz/       | gió nhẹ                   |
+| Foggy        | /ˈfɒɡi/       | có sương mù               |
+| Haze         | /heɪz/        | màn sương mỏng            |
+| Gloomy       | /ˈɡluːmi/     | trời ảm đạm               |
+| Cloudy       | /ˈklaʊdi/     | trời nhiều mây            |
+| Fine         | /faɪn/        | trời không mưa, không mây |
+| Sunny        | /ˈsʌni/       | trời nắng, không có mây   |
+| Clear        | /klɪə/        | quang đãng                |
+| Overcast     | /ˈəʊvəkɑːst/  | âm u                      |
+| Lightning    | /ˈlaɪtnɪŋ/    | tia chớp                  |
+| Thunderstorm | /ˈθʌndəstɔːm/ | bão tố có sấm sét         |
+| Snow         | /snəʊ/        | tuyết                     |
+| Snowstorm    | /ˈsnəʊstɔːm/  | bão tuyết                 |
+| Hail         | /heɪl/        | mưa đá                    |
+| Flood        | /flʌd/        | lũ lụt                    |
 
 ## 4. Tổng hợp từ vựng Tiếng Anh về nhiệt độ và lượng mưa
 

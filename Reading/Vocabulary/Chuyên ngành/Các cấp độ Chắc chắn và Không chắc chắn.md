@@ -67,3 +67,4 @@ Các cách diễn đạt sau đây được xếp theo thứ tự từ _rất_�
 |                |                   | – I’m not sure.              |
 
 Qua bài viết trên, Jaxtina hy vọng đã giúp các bạn biết được các cách diễn đạt cấp độ chắc chắn và không chắc chắn trong tiếng Anh. Đừng quên luyện tập thật nhiều để nói trôi chảy hơn nhé.
+

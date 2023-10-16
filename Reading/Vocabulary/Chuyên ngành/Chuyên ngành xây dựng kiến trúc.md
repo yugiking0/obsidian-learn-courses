@@ -4,52 +4,50 @@
 
 ### **Từ vựng về các chức vị trong ngành xây dựng:**
 
-|   |   |   |
-|---|---|---|
-|**Từ vựng**|**Phiên âm**|**Phiên dịch**|
-|Contractor|/kən’træktə/|Nhà thầu|
-|Owner|/ˈoʊnər/|Chủ nhà / Chủ sở hữu|
-|Resident architect|/’rezidənt ˈɑːrkɪtekt/|Kiến trúc sư thường trú|
-|Supervisor|/ˈsuːpərvaɪzər/|Người giám sát|
-|Site engineer|/sait ˌendʒɪˈnɪr/|Kỹ sư công trường|
-|Structural engineer|/’strʌktʃərəl ˌendʒɪˈnɪr/|Kỹ sư kết cấu|
-|Construction engineer|/kən’strʌkʃn ˌendʒɪˈnɪr/|Kỹ sư xây dựng|
-|Electrical engineer|/ɪˈlektrɪkl ˌendʒɪˈnɪr/|Kỹ sư điện|
-|Water works engineer|/ˈwɔːtər wɜːrks ˌendʒɪˈnɪr/|Kỹ sư xử lý nước|
-|Mechanical engineer|/məˈkænɪkl ˌendʒɪˈnɪr/|Kỹ sư cơ khí|
-|Soil engineer|/sɔil ˌendʒɪˈnɪr/|Kỹ sư địa chất|
-|Mate|/meɪt/|Thợ phụ|
-|Mason|/ˈmeɪsn/|Thợ hồ|
-|Plasterer|/ˈplɑːstərə/|Thợ trát|
-|Carpenter|/ˈkɑːrpəntər/|Thợ mộc|
-|Plumber|/ˈplʌmə/|Thợ sửa ống nước|
-|Welder|/ˈweldər/|Thợ hàn|
-|Site manager|/saɪt ˈmænɪdʒər/|Quản lý công trường|
-|Site supervisor|/saɪt ˈsuːpərvaɪzər/|Người giám sát công trường|
+| **Từ vựng**               | **Phiên âm**                   | **Phiên dịch**             |
+|-----------------------|-----------------------------|----------------------------|
+| Contractor            | /kən’træktə/                | Nhà thầu                   |
+| Owner                 | /ˈoʊnər/                    | Chủ nhà / Chủ sở hữu       |
+| Resident architect    | /’rezidənt ˈɑːrkɪtekt/      | Kiến trúc sư thường trú    |
+| Supervisor            | /ˈsuːpərvaɪzər/             | Người giám sát             |
+| Site engineer         | /sait ˌendʒɪˈnɪr/           | Kỹ sư công trường          |
+| Structural engineer   | /’strʌktʃərəl ˌendʒɪˈnɪr/   | Kỹ sư kết cấu              |
+| Construction engineer | /kən’strʌkʃn ˌendʒɪˈnɪr/    | Kỹ sư xây dựng             |
+| Electrical engineer   | /ɪˈlektrɪkl ˌendʒɪˈnɪr/     | Kỹ sư điện                 |
+| Water works engineer  | /ˈwɔːtər wɜːrks ˌendʒɪˈnɪr/ | Kỹ sư xử lý nước           |
+| Mechanical engineer   | /məˈkænɪkl ˌendʒɪˈnɪr/      | Kỹ sư cơ khí               |
+| Soil engineer         | /sɔil ˌendʒɪˈnɪr/           | Kỹ sư địa chất             |
+| Mate                  | /meɪt/                      | Thợ phụ                    |
+| Mason                 | /ˈmeɪsn/                    | Thợ hồ                     |
+| Plasterer             | /ˈplɑːstərə/                | Thợ trát                   |
+| Carpenter             | /ˈkɑːrpəntər/               | Thợ mộc                    |
+| Plumber               | /ˈplʌmə/                    | Thợ sửa ống nước           |
+| Welder                | /ˈweldər/                   | Thợ hàn                    |
+| Site manager          | /saɪt ˈmænɪdʒər/            | Quản lý công trường        |
+| Site supervisor       | /saɪt ˈsuːpərvaɪzər/        | Người giám sát công trường |
 
 ### **Từ vựng Tiếng Anh chuyên ngành xây dựng về các dụng cụ, công cụ:**
 
-|   |   |   |
-|---|---|---|
-|**Từ vựng**|**Phiên âm**|**Phiên dịch**|
-|Bolt|/bəʊlt/|Bu lông|
-|Pincers|/ˈpɪnsərz/|Cái kìm|
-|Saw|/sɔ:/|Cái cưa|
-|Screwdriver|/ˈskruːdraɪvər/|Tua vít|
-|Vice|/vaɪs/|Mỏ cặp|
-|Chisel|/ˈtʃɪzl/|Cái đục|
-|Hammer|/’hæmə/|Búa|
-|Shear|/ʃɪr/|Kéo lớn|
-|Beam|/bi:m/|Dầm, xà|
-|Crane|/kreɪn/|Cần cẩu|
-|Crane beam|/krein bi:m/|Dầm cần trục|
-|Crane girder|/kreɪn ˈɡɜːrdər/|Giá cần trục, giàn cần trục|
-|Automatic fire door|/ˌɔːtəˈmætɪk ˈfaɪə dɔːr/|Cửa tự động phòng cháy|
-|Deck bridge|/dek brɪdʒ/|Cầu có đường xe chạy trên|
-|Deck girder|/dek ˈɡɜːrdər/|Giàn cầu|
-|Spade|/speɪd/|Cái xẻng|
-|Tape|/teɪp/|Thước cuộn|
-|Wrench|/rentʃ/|Cờ lê|
+| **Từ vựng**         | **Phiên âm**             | **Phiên dịch**              |
+|---------------------|--------------------------|-----------------------------|
+| Bolt                | /bəʊlt/                  | Bu lông                     |
+| Pincers             | /ˈpɪnsərz/               | Cái kìm                     |
+| Saw                 | /sɔ:/                    | Cái cưa                     |
+| Screwdriver         | /ˈskruːdraɪvər/          | Tua vít                     |
+| Vice                | /vaɪs/                   | Mỏ cặp                      |
+| Chisel              | /ˈtʃɪzl/                 | Cái đục                     |
+| Hammer              | /’hæmə/                  | Búa                         |
+| Shear               | /ʃɪr/                    | Kéo lớn                     |
+| Beam                | /bi:m/                   | Dầm, xà                     |
+| Crane               | /kreɪn/                  | Cần cẩu                     |
+| Crane beam          | /krein bi:m/             | Dầm cần trục                |
+| Crane girder        | /kreɪn ˈɡɜːrdər/         | Giá cần trục, giàn cần trục |
+| Automatic fire door | /ˌɔːtəˈmætɪk ˈfaɪə dɔːr/ | Cửa tự động phòng cháy      |
+| Deck bridge         | /dek brɪdʒ/              | Cầu có đường xe chạy trên   |
+| Deck girder         | /dek ˈɡɜːrdər/           | Giàn cầu                    |
+| Spade               | /speɪd/                  | Cái xẻng                    |
+| Tape                | /teɪp/                   | Thước cuộn                  |
+| Wrench              | /rentʃ/                  | Cờ lê                       |
 
 ### **Một số từ vựng Tiếng Anh chuyên ngành xây dựng khác:**
 
@@ -82,20 +80,19 @@
 
 Sau đây là một số thuật ngữ Tiếng Anh trong ngành xây dựng mà bạn cần nắm:
 
-|   |   |   |
-|---|---|---|
-|**Từ vựng**|**Phiên âm**|**Phiên dịch**|
-|Drill|/drɪl/|Máy khoan|
-|Wheel barrow|/wiːl ˈbærəʊ/|Xe cút kít, xe đẩy tay|
-|Aerial ladder|/ˈeriəl ‘lædə/|Thang có bàn xoay|
-|Builder’s hoist|/ˈbɪldərs hɔɪst/|Máy nâng dùng trong xây dựng|
-|Guard board|/gɑ:d bɔ:d/|Tấm chắn, tấm bảo vệ|
-|Concrete mixer|/ˈkɒŋkriːt ˈmɪksər/|Máy trộn bê tông|
-|Agitator|/ˈædʒɪteɪtə/|Máy trộn|
-|Agitator shaker|/ˈædʒɪteɪtə ‘ʃeɪkə/|Máy khuấy|
-|AHU – Air Handling Unit|/eə ˈhændlɪŋ ˈjuːnɪt/|Thiết bị xử lý khí trung tâm|
-|Air barrier|/eə ˈbæriə/|Tấm ngăn không khí|
-|Air caisson|/eə ˈkeɪsn/|Giếng chìm hơi ép|
+| **Từ vựng**             | **Phiên âm**          | **Phiên dịch**               |
+|-------------------------|-----------------------|------------------------------|
+| Drill                   | /drɪl/                | Máy khoan                    |
+| Wheel barrow            | /wiːl ˈbærəʊ/         | Xe cút kít, xe đẩy tay       |
+| Aerial ladder           | /ˈeriəl ‘lædə/        | Thang có bàn xoay            |
+| Builder’s hoist         | /ˈbɪldərs hɔɪst/      | Máy nâng dùng trong xây dựng |
+| Guard board             | /gɑ:d bɔ:d/           | Tấm chắn, tấm bảo vệ         |
+| Concrete mixer          | /ˈkɒŋkriːt ˈmɪksər/   | Máy trộn bê tông             |
+| Agitator                | /ˈædʒɪteɪtə/          | Máy trộn                     |
+| Agitator shaker         | /ˈædʒɪteɪtə ‘ʃeɪkə/   | Máy khuấy                    |
+| AHU – Air Handling Unit | /eə ˈhændlɪŋ ˈjuːnɪt/ | Thiết bị xử lý khí trung tâm |
+| Air barrier             | /eə ˈbæriə/           | Tấm ngăn không khí           |
+| Air caisson             | /eə ˈkeɪsn/           | Giếng chìm hơi ép            |
 
 ## **3. Một số mẫu câu giao tiếp Tiếng Anh phổ biến trong ngành xây dựng**
 
