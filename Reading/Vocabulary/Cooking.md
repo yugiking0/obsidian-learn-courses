@@ -1,6 +1,6 @@
 # 99+ từ vựng về cooking bằng Tiếng Anh
 
-## **1. Từ vựng Tiếng Anh về thao tác chế biến khi nấu ăn**
+## 1. Từ vựng Tiếng Anh về thao tác chế biến khi nấu ăn
 
 Sau đây là một số _từ vựng chủ đề cooking_ về các thao tác khi chế biến:
 
@@ -22,7 +22,7 @@ Sau đây là một số _từ vựng chủ đề cooking_ về các thao tác
 |Marinate|/ˈmærɪneɪt/|Ướp|
 
 
-## **2. Một số từ vựng Tiếng Anh về các cách chế biến thức ăn** 
+## 2. Một số từ vựng Tiếng Anh về các cách chế biến thức ăn
 
 |   |   |   |
 |---|---|---|
@@ -140,9 +140,9 @@ Trên đây là một số từ vựng chủ đề nấu ăn và chế độ ăn
 8. g – Nghiền
 
 
-## **1. Tổng hợp các từ vựng Tiếng Anh về đồ ăn**
+## 1. Tổng hợp các từ vựng Tiếng Anh về đồ ăn
 
-### **1.1 Từ vựng đồ ăn hàng ngày (everyday food) bằng Tiếng Anh**
+### 1.1 Từ vựng đồ ăn hàng ngày (everyday food) bằng Tiếng Anh
 
 |   |   |   |   |
 |---|---|---|---|
